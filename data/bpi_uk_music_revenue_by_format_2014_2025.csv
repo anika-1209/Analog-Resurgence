@@ -1,0 +1,13 @@
+year,vinyl_revenue_gbp_millions,cd_revenue_gbp_millions,streaming_revenue_gbp_millions,source_note,vinyl_units_millions,vinyl_yoy_growth_pct
+2014,19.4,,,confirmed,,
+2015,25.1,,,confirmed,,29.4
+2016,,,,,,
+2017,55.1,246.9,,calculated from 2018 YoY,4.1,
+2018,57.1,176.8,,confirmed,4.2,3.6
+2019,66.3,141.8,,calculated from 2020 YoY,,16.1
+2020,86.5,115.6,736.5,confirmed,4.8,30.5
+2021,115.9,117.3,833.0,calculated from 2022 YoY,,34.0
+2022,119.5,89.5,885.0,confirmed,5.5,3.1
+2023,141.6,97.2,963.0,calculated from 2024 YoY,5.9,18.5
+2024,145.7,96.7,1020.0,confirmed,6.7,2.9
+2025,174.7,99.6,1070.0,confirmed,7.6,19.9
